@@ -22,5 +22,5 @@ El proyecto está estructurado en tres módulos principales independientes para 
 3. **Ejercicio 3 (Auth & Storage):** Integración de Firebase. Cuenta con un sistema de registro/login y un "guardia de sesión" (onAuthStateChanged) que bloquea la vista de subida de archivos. Solo los usuarios autenticados pueden subir imágenes a Firebase Storage.
 
 ## Enlaces de Despliegue
-* **Repositorio en GitHub:** https://github.com/franciscoculun/Examen-Final-Prog-Componentes.git
-* **Aplicación en Vivo (Netlify):**
+* **Repositorio en GitHub:** https://github.com/franciscoculun/Examen-final-Prog-componentes.git
+* **Aplicación en Vivo (Netlify):** https://examen-final-prog-componentes.netlify.app
